@@ -11,7 +11,7 @@
 
 ## Tecnologias Utilizadas
 
-<img src="https://user-images.githubusercontent.com/32595366/93954210-7eb9a600-fd23-11ea-8c93-8f39421758a0.png" width="35%" height="35%">
+### <img src="https://user-images.githubusercontent.com/32595366/93954210-7eb9a600-fd23-11ea-8c93-8f39421758a0.png" width="35%" height="35%">
 
 
 ## Demonstração
