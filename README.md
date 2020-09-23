@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-- ###  O projeto foi desenvolvido com base nos critérios do [HyperHack](https://communityevents.uipath.com/events/details/uipath-hackathons-presents-participate-in-the-uipath-hyperhack/) , onde tinhamos que utilizar no mínimo 3 tecnologias/produtos da UiPath. Deveria ser algo criativo e que não existisse no Marketplace da UiPath. Dessa maneira a equipe teve a ideia de desenvolver um robô que capturasse os comentários do Instagram e gerasse um Dashboard contendo os sentimentos dos comentários.
+- ###  O projeto foi desenvolvido com base nos critérios do [HyperHack](https://communityevents.uipath.com/events/details/uipath-hackathons-presents-participate-in-the-uipath-hyperhack/) , onde tinhamos que utilizar no mínimo 3 tecnologias/produtos da UiPath. Deveria ser algo criativo e que não existisse no Marketplace da UiPath. Dessa maneira a equipe teve a ideia de desenvolver um robô que capture os comentários do Instagram e gere um Dashboard contendo classificação de cada comentário (Muito Positivo, Positivo, Negativo, Muito Negativo).
 
 ## Equipe
 
